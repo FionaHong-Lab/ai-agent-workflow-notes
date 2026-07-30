@@ -24,9 +24,9 @@
 
 案例：
 
-- [Case 01｜退换货客服 Agent](./01-agent-delivery/case-01-return-refund-agent-template.md)
-- [Case 02｜从人工客服流程到 AI Agent](./01-agent-delivery/case-02-customer-process-mapping.md)
-- [Case 03｜从 Demo 到可交付 Agent](./01-agent-delivery/case-03-agent-evaluation-before-launch.md)
+- [Case 01｜退换货客服 Agent](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-01-return-refund-agent-template.md)
+- [Case 02｜从人工客服流程到 AI Agent](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-02-customer-process-mapping.md)
+- [Case 03｜从 Demo 到可交付 Agent](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-03-agent-evaluation-before-launch.md)
 
 ---
 
