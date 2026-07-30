@@ -2,34 +2,83 @@
 
 这是我整理 AI Agent 交付、知识工作流与内容管理方法的公开笔记库。
 
-我关注的不是单纯使用 AI 工具，而是如何把复杂、分散、难推进的工作场景，整理成可以执行、可以协作、可以复用的 AI Workflow。
+我关注的不是单纯使用 AI 工具，而是如何把复杂、分散、难推进的工作场景，拆解成可以执行、可以协作、可以复用的 AI Workflow。
 
 ---
 
-## 目录
+## 内容方向
 
 ### 01 Agent Delivery
 
-记录我对 AI Agent 交付的理解：  
-Agent 不是简单自动化，而是任务拆解、规则设计、人机协作和交付边界的组合。
+探索 AI Agent 如何进入真实业务场景。
+
+关注：
+
+- 业务流程拆解
+- Workflow / Agent / Human 边界设计
+- AI 应用交付与上线验证
+
+文章：
 
 - [Agent 交付不是自动化](./01-agent-delivery/agent-delivery-not-automation.md)
 
+案例：
+
+- [Case 01｜退换货客服 Agent](./01-agent-delivery/case-01-return-refund-agent-template.md)
+- [Case 02｜从人工客服流程到 AI Agent](./01-agent-delivery/case-02-customer-process-mapping.md)
+- [Case 03｜从 Demo 到可交付 Agent](./01-agent-delivery/case-03-agent-evaluation-before-launch.md)
+
+---
+
 ### 02 Knowledge Workflow
 
-记录知识库、文档、Prompt、项目资料如何被整理成 AI 可以理解、也方便人使用的上下文系统。
+探索知识如何从信息记录，转化为 AI 可以理解和调用的工作流。
+
+关注：
+
+- 知识结构化
+- 信息整理
+- AI 辅助提炼
+- 知识资产复用
+
+文章：
 
 - [知识库不是资料堆积](./02-knowledge-workflow/knowledge-base-not-storage.md)
 
+案例：
+
+- [Case 01｜知识库不是资料堆积：从信息存储到 AI 可调用工作流](./02-knowledge-workflow/case-01-knowledge-workflow.md)
+
+---
+
 ### 03 Content Operations
 
-记录 AI 如何参与内容选题、资料整理、初稿生成、编辑校对和多平台复用。
+探索 AI 如何参与内容生产和长期内容资产管理。
+
+关注：
+
+- 内容选题
+- 信息整理
+- AI 辅助创作
+- 内容复用流程
+
+文章：
 
 - [内容管理如何介入 AI 工作流](./03-content-operations/content-management-ai-workflow.md)
 
+---
+
 ### 04 Tool Notes
 
-记录 Codex、Cursor、Claude Code、Obsidian、GitHub 等工具在实际工作流里的使用边界和适合场景。
+记录 AI 工具在不同工作场景中的使用边界。
+
+关注：
+
+- 工具选择
+- 工作流组合
+- 使用场景判断
+
+文章：
 
 - [Codex 和 Cursor 分别适合什么](./04-tool-notes/codex-vs-cursor.md)
 
@@ -37,25 +86,20 @@ Agent 不是简单自动化，而是任务拆解、规则设计、人机协作�
 
 ## 当前状态
 
-这是一个持续更新中的方法库。  
-它不是传统工程师代码作品集，而是我用来沉淀 AI Agent 交付、知识管理和内容工作流实践的公开工作台。
+这是一个持续更新中的 AI Workflow 方法库。
 
-当前已搭建四个基础方向：
+它不是传统工程代码作品集，而是我用于沉淀：
 
-1. Agent 交付不是自动化
-2. 知识库不是资料堆积
-3. 内容管理如何介入 AI 工作流
-4. Codex 和 Cursor 分别适合什么
+- AI Agent 交付方法
+- 知识工作流设计
+- 内容管理流程
+- AI 工具使用边界
 
----
+的公开工作台。
 
-## 和个人网站的关系
+当前已建立四个方向：
 
-这个仓库负责沉淀完整方法笔记。  
-个人网站负责展示精选入口、个人定位和可见作品。
-
-推荐同步方式：
-
-- GitHub：放完整文章和持续更新记录
-- 个人网站：放四张主题卡片，每张卡片链接到对应 GitHub 文章
-- 简历 / 求职材料：提炼成“AI 工作流实践作品集”的一行说明
+1. Agent Delivery
+2. Knowledge Workflow
+3. Content Operations
+4. Tool Notes
