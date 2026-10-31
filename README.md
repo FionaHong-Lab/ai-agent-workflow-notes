@@ -12,6 +12,8 @@
 
 探索 AI Agent 如何进入真实业务场景。
 
+这里是方法笔记：如何拆流程、划定 Workflow / Agent / Human 边界，以及上线前如何验证。同一条退换货主线的交付证据在案例库 [ai-agent-delivery-casebook](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook)。
+
 关注：
 
 - 业务流程拆解
@@ -22,11 +24,13 @@
 
 - [Agent 交付不是自动化](./01-agent-delivery/agent-delivery-not-automation.md)
 
-案例：
+案例（证据，见案例库；主线为 01a 流程 → 01b 边界 → 02 映射 → 03 上线风险 → 06 端到端交付）：
 
-- [Case 01｜退换货客服 Agent](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-01-return-refund-agent-template.md)
+- [Case 01a｜退换货业务流程](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-01a-return-refund-workflow.md)
+- [Case 01b｜退换货 Agent 边界](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-01b-return-refund-agent-boundary.md)
 - [Case 02｜从人工客服流程到 AI Agent](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-02-customer-process-mapping.md)
 - [Case 03｜从 Demo 到可交付 Agent](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-03-agent-evaluation-before-launch.md)
+- [Case 06｜退换货端到端交付证据](https://github.com/FionaHong-Lab/ai-agent-delivery-casebook/blob/main/case-06-return-refund-e2e-delivery.md)（主作品）
 
 ---
 
